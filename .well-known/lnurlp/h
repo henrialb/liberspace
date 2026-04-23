@@ -1,0 +1,10 @@
+{
+  "callback": "https://btcpay.liberspace.org/BTC/UILNURL/pay/lnaddress/h",
+  "metadata": "[[\"text/identifier\",\"h@liberspace.org\"],[\"text/plain\",\"Sats for H\"]]",
+  "tag": "payRequest",
+  "minSendable": 1000,
+  "maxSendable": 612000000000,
+  "commentAllowed": 2000,
+  "nostrPubkey": "ce892c1b817b4af346cc593dba56d878eb8ac3614220cec9975fc84c9123b496",
+  "allowsNostr": true
+}
