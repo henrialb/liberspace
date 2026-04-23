@@ -1,0 +1,10 @@
+{
+  "callback": "https://livingroomofsatoshi.com/api/v1/lnurl/payreq/711f85e0-1e20-406c-8ff3-27408aad348d",
+  "maxSendable": 100000000000,
+  "minSendable": 1000,
+  "metadata": "[[\"text/plain\",\"Zap Henrique\"],[\"text/identifier\",\"zap@liberspace.org\"]]",
+  "commentAllowed": 255,
+  "tag": "payRequest",
+  "allowsNostr": true,
+  "nostrPubkey": "ce892c1b817b4af346cc593dba56d878eb8ac3614220cec9975fc84c9123b496"
+}
